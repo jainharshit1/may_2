@@ -241,15 +241,21 @@ html = f"""
 </div>
 
 <div class="notes-wrapper">
-  <button id="noteBtn1" class="note-btn">Note</button>
+  <button id="noteBtn1" class="note-btn">Show Note</button>
   <div id="note1" class="note-overlay">
     To the strongest and smartest girl:
-       A very Happy Birthday! 🎉
+       A very Happy Birthday Doxaab! 🎉
        May this year fill beautful colours in your life.
-    <button id="noteBtn2">Next Note</button>
+    Pehle to  sorry doxaab bina puche aapki profile photo use karli thi is 
+    animation ke liye but I hope you like it and just wanted you to know that,
+        I am waiting for you and for "I think the time is not right" se
+        "Now I think the time is right" ho jane ka.
+    <button id="noteBtn2">Show Next Note</button>
   </div>
   <div id="note2" class="note-overlay">
-    📝 Here comes the second note! This text box will wrap long lines cleanly so nothing gets cut off.
+    Bas abhi itna hi. baki baatein aapse milke hi karenge, jyda time nhi lunga aapka
+    pata lage aaj bhi koi paper ho 🤦
+    hope to see you soon.
   </div>
 </div>
 
@@ -305,4 +311,4 @@ html = f"""
 </script>
 """
 
-components.html(html, height=700, scrolling=False)
+components.html(html, height=900, scrolling=False)
