@@ -256,6 +256,7 @@ html = f"""
     Bas abhi itna hi. baki baatein aapse milke hi karenge, jyda time nhi lunga aapka
     pata lage aaj bhi koi paper ho 🤦
     hope to see you soon.
+    Aur han bata dena when you see this, will have to take the website down :(
   </div>
 </div>
 
