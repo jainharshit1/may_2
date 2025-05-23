@@ -312,4 +312,4 @@ html = f"""
 </script>
 """
 
-components.html(html, height=900, scrolling=False)
+components.html(html, height=950, scrolling=False)
